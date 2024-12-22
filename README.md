@@ -46,17 +46,6 @@ Meu objetivo é continuar contribuindo para o crescimento de empresas através d
 - **Marketing Digital:** Planejamento e execução de campanhas, SEO, ads otimizados.
 - **Ferramentas Administrativas:** Bling, Tiny, Totvs, SAP, Bonus CRM.
 
-## Linguagens em Estudo  
-Atualmente, estou focado em aprender e aperfeiçoar as seguintes linguagens:  
-
-- **Python**  
-- **Java**  
-- **JavaScript**  
-- **C++**  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodigo23&layout=compact)](https://github.com/diegodigo23/github-readme-stats)
-
-
 ### Contato
 - **GitHub:** [diegodigo23](https://github.com/diegodigo23)
 - **E-mail:** diego.pereira19.62@gmail.com
