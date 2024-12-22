@@ -9,3 +9,7 @@ Analista de Dados em formação, estudante de Análise de Dados pela EBAC e grad
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodigo23&repo=diegodigo23.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodigo23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
