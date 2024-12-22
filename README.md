@@ -57,7 +57,7 @@ Meu objetivo é continuar contribuindo para o crescimento de empresas através d
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodigo23&repo=diegodigo23.github.io&theme=dark)](https://github.com/diegodigo23/projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodigo23&repo=diegodigo23.github.io&theme=dark)](https://github.com/diegodigo23/projeto/commit/51eba2b852d126551907890fa45d9623c81a63d1)
 
 ### Linguagens utilizadas
 
