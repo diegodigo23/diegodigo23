@@ -61,7 +61,7 @@ Meu objetivo é continuar contribuindo para o crescimento de empresas através d
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodigo23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodigo23&layout=compact)](https://github.com/diegodigo23/github-readme-stats)
 
 ### Contatos
 
