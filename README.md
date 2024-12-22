@@ -19,6 +19,14 @@ Meu objetivo é continuar contribuindo para o crescimento de empresas através d
 - Desenvolvi relatórios dinâmicos que auxiliaram na identificação de oportunidades de crescimento.
 - Otimizei campanhas de ads, reduzindo o ACOS para 6%.
 
+  ## Sobre o Projeto  
+Este projeto utiliza as linguagens **Python** e **JavaScript** para...  
+
+### Linguagens em Estudo  
+Além disso, estou aprendendo:  
+- **Java**  
+- **C++**
+
 #### 2. **Gestão de Campanhas Sazonais**
 **Ferramentas Utilizadas:** Google Ads, Meta Ads, Totvs
 - Planejei e executei campanhas de primavera/verão para produtos femininos, resultando em um aumento de 35% nas vendas.
