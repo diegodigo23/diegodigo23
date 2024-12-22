@@ -8,7 +8,7 @@ Analista de Dados em formação, estudante de Análise de Dados pela EBAC e grad
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodigo23&repo=diegodigo23.github.io&theme=dark)](https://github.com/diegodigo23/projeto?tab=MIT-1-ov-file)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegodigo23&repo=diegodigo23.github.io&theme=dark)](https://github.com/diegodigo23/projeto)
 
 ### Linguagens utilizadas
 
